@@ -1,10 +1,10 @@
-# Available .VILLAS One-Word Domains (12,779)
+# Available .VILLAS One-Word Domains (12,780)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C779%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C780%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .villas one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,779 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,780 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,779 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,780 domains · **Median ask:** $30.30 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/villas`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| shortcuts.villas   | available | $19.99    | —             | 48             | 41     | 10     | name.com         |
-| views.villas       | resell    | —         | —             | 62             | 18     | 5      | GoDaddy.com, LLC |
-| cars.villas        | premium   | $250      | —             | 66             | 47     | 4      | name.com         |
-| lets.villas        | available | $19.99    | —             | 77             | 39     | 4      | name.com         |
-| Tools.villas       | premium   | $280      | $280          | 56             | 40     | 5      | namecheap        |
-| prompts.villas     | available | $19.99    | —             | 54             | 39     | 7      | name.com         |
-| events.villas      | premium   | $500      | —             | 68             | 37     | 6      | name.com         |
-| spectra.villas     | available | $19.99    | —             | 62             | 34     | 7      | name.com         |
-| solutions.villas   | premium   | $123.75   | —             | 56             | 31     | 9      | name.com         |
-| etc.villas         | available | $19.99    | —             | 58             | 34     | 3      | name.com         |
-| toys.villas        | premium   | $242      | $242          | 60             | 24     | 4      | namesilo         |
-| payments.villas    | available | $19.99    | —             | 58             | 33     | 8      | name.com         |
-| apartments.villas  | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo         |
-| trends.villas      | available | $19.99    | —             | 60             | 32     | 6      | name.com         |
-| studios.villas     | premium   | $123.75   | —             | 54             | 21     | 7      | name.com         |
-| letsgo.villas      | available | $19.99    | —             | 57             | 31     | 7      | name.com         |
-| reservation.villas | premium   | $250      | —             | 65             | 19     | 11     | name.com         |
-| maps.villas        | available | $19.99    | —             | 56             | 31     | 4      | name.com         |
-| prices.villas      | premium   | $123.75   | —             | 51             | 15     | 6      | name.com         |
-| inspiration.villas | available | $19.99    | —             | 88             | 30     | 11     | name.com         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Trex.villas      | available | $74.98    | —             | 80             | 24     | 5      | namecheap        |
+| girls.villas     | available | $19.99    | —             | 83             | 23     | 5      | name.com         |
+| finals.villas    | available | $19.99    | —             | 80             | 7      | 6      | name.com         |
+| forces.villas    | available | $19.99    | —             | 82             | 12     | 6      | name.com         |
+| getup.villas     | available | $19.99    | —             | 82             | 14     | 6      | name.com         |
+| Apples.villas    | available | $74.98    | —             | 90             | 16     | 6      | namecheap        |
+| gearup.villas    | available | $19.99    | —             | 80             | 16     | 7      | name.com         |
+| playon.villas    | available | $19.99    | —             | 80             | 14     | 7      | name.com         |
+| QandA.villas     | available | $74.98    | —             | 80             | 10     | 7      | namecheap        |
+| stirup.villas    | available | $19.99    | —             | 82             | 3      | 7      | name.com         |
+| getlife.villas   | available | $19.99    | —             | 80             | 5      | 8      | name.com         |
+| messages.villas  | available | $19.99    | —             | 80             | 16     | 8      | name.com         |
+| shortcuts.villas | available | $19.99    | —             | 48             | 41     | 10     | name.com         |
+| views.villas     | resell    | —         | —             | 62             | 18     | 5      | GoDaddy.com, LLC |
+| cars.villas      | premium   | $250      | —             | 66             | 47     | 4      | name.com         |
+| lets.villas      | available | $19.99    | —             | 77             | 39     | 4      | name.com         |
+| Tools.villas     | premium   | $280      | $280          | 56             | 40     | 5      | namecheap        |
+| prompts.villas   | available | $19.99    | —             | 54             | 39     | 7      | name.com         |
+| events.villas    | premium   | $500      | —             | 68             | 37     | 6      | name.com         |
+| spectra.villas   | available | $19.99    | —             | 62             | 34     | 7      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,779 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,780 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .villas domains. That makes relevance to property, travel, rentals, hospitality, and luxury positioning the first filter. Names such as girls.villas, WiFi.villas, jewels.villas, and Trex.villas show the range: some are descriptive, some feel promotional, and some are less naturally tied to villa intent. For founders, the strongest picks are easy to say, easy to remember, and immediately credible with .villas. For investors, quality depends on whether the word has clear commercial use in this extension, reasonable acquisition cost, and limited confusion or trademark exposure.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer words that fit property, travel, rentals, or luxury
+- Check whether the keyword reads naturally with .villas
+- Avoid terms with likely trademark or brand conflict
+- Use median ask 30.30 as a rough price anchor
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VILLAS One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VILLAS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
