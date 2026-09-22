@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .villas one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,296 domains · **Median ask:** $40.11 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-22
 **Canonical page:** `https://unique.domains/domains/tld/villas`
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | die.villas      | available | $19.99    | —             | medium         | low    | 3      | name.com         |
 | spot.villas     | premium   | $242      | $242          | high           | medium | 4      | namesilo         |
 | dry.villas      | available | $19.99    | $80.99        | high           | low    | 3      | name.com         |
-| star.villas     | premium   | $500      | $500          | high           | medium | 4      | name.com         |
+| star.villas     | premium   | $520      | $520          | medium         | low    | 4      | namecheap        |
 | fat.villas      | available | $19.99    | —             | medium         | low    | 3      | name.com         |
 | tour.villas     | premium   | $520      | $520          | high           | low    | 4      | namecheap        |
 | gag.villas      | available | $19.99    | —             | high           | low    | 3      | name.com         |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VILLAS One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VILLAS One-Word Domains*. Version 2026-09-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
