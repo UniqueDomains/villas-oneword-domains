@@ -13,6 +13,7 @@ c378ca6d-a200-4abd-b46a-9260f9d1db52,discrete.villas,available,19.99,80.99,high,
 35167e21-470c-4b65-a58e-2c3cb2d9d4f6,safe.villas,available,59.99,59.99,high,medium,4,namesilo,,,27/09/2026 17:44
 902c8d96-010f-4e15-83ab-38da572fdcec,stud.villas,available,59.99,59.99,high,low,4,namesilo,,,24/09/2026 23:35
 7ce8c38d-7a2c-4631-84e8-32b4e448b733,actinide.villas,available,19.99,80.99,medium,low,8,name.com,,,
+5c38e7d9-a7f8-4529-adf1-a03df51942ff,nesting.villas,available,59.99,59.99,high,low,7,namesilo,,,01/10/2026 07:46
 0c866e9c-783a-4f18-9eec-86187b14edbc,lowlife.villas,available,19.99,80.99,medium,low,7,name.com,,,11/08/2026 09:22
 7e357832-c662-4e1b-9384-44d46f72ab72,aggregator.villas,available,59.99,59.99,high,low,10,namesilo,,,17/09/2026 17:29
 cecaae78-e6e6-4aa5-8e4e-20d6aaa5e484,pallor.villas,available,62.98,74.98,medium,low,6,namecheap,,,17/09/2026 01:07
@@ -21,6 +22,7 @@ cecaae78-e6e6-4aa5-8e4e-20d6aaa5e484,pallor.villas,available,62.98,74.98,medium,
 733d808d-08f4-4bbf-b932-8fe9154acb74,legends.villas,available,47.81,47.81,high,low,7,spaceship,,,28/09/2026 18:05
 93d03948-7788-4f63-add9-991a9703b74a,blooded.villas,available,19.99,80.99,high,low,7,name.com,,,10/08/2026 15:18
 a235e81e-0041-445d-9a20-756e45a067b1,habits.villas,available,59.99,59.99,medium,low,6,namesilo,,,28/09/2026 04:46
+c2826316-e800-4a0e-9e22-5af611ffa815,prescriptions.villas,available,46.2,46.2,medium,low,13,cloudflare,,,01/10/2026 18:41
 026e27b2-44fd-4e38-9217-e0f8f52d647e,rockwell.villas,available,59.99,59.99,high,low,8,namesilo,,,27/09/2026 04:54
 46cbbccc-a697-4a32-bb4a-62fea6a30e16,unpopular.villas,available,59.99,59.99,medium,low,9,namesilo,,,12/09/2026 17:11
 6c80d0bd-0bb7-4af2-979b-63a962e2a1a9,fragrance.villas,available,62.98,74.98,high,low,9,namecheap,,,29/09/2026 18:57
@@ -38,6 +40,7 @@ baf6cc20-9e6a-472d-b0f1-0327b74632ba,auriga.villas,available,59.99,59.99,medium,
 94297769-33c1-48a5-a5f0-8d1a9d9c6ddc,queasy.villas,available,19.99,80.99,medium,low,6,name.com,,,24/08/2026 08:26
 382abd48-e9a0-4c44-a0e7-3490a1d4427a,promptly.villas,available,62.98,74.98,high,low,8,namecheap,,,09/09/2026 08:42
 ae00e5d1-2471-4031-ab34-548a8604cf87,humble.villas,available,62.98,74.98,high,low,6,namecheap,,,22/09/2026 17:44
+bce47bd9-a507-4929-863c-d7c417a6c684,rung.villas,available,47.81,47.81,medium,low,4,spaceship,,,01/10/2026 21:34
 167eb556-89f9-44f4-806e-19a3ae9017e5,eroticism.villas,available,59.99,59.99,medium,low,9,namesilo,,,18/09/2026 16:10
 4190c28f-0cfc-4527-b444-20ab32de5a37,shitty.villas,available,19.99,80.99,high,low,6,name.com,,,13/08/2026 05:14
 d8b15042-a7cd-40d7-8fe4-bd72c3ed906e,phlegmatic.villas,available,62.98,74.98,medium,low,10,namecheap,,,08/09/2026 18:53
@@ -48,6 +51,8 @@ b546acc7-7957-4a69-b84d-61ce5bf823d5,powerful.villas,available,59.99,59.99,high,
 d0daf903-7f3d-456f-9e4e-380ebeddcff2,pangolin.villas,available,59.99,59.99,medium,low,8,namesilo,,,19/09/2026 12:39
 7e4a5c96-a38f-4c01-a54a-5b09f2d20f23,abashed.villas,available,19.99,80.99,medium,low,7,name.com,,,
 132aca79-2515-4fdf-a4d5-a2d847fa8c9a,matthias.villas,available,62.98,74.98,high,low,8,namecheap,,,27/09/2026 19:32
+9fb537b6-636e-405c-b447-6e8247dcc8d4,philippa.villas,available,59.99,59.99,high,low,8,namesilo,,,01/10/2026 08:16
+37d939b5-72e4-4e29-90d5-ea008a3fbf1e,turnip.villas,available,62.98,74.98,high,low,6,namecheap,,,02/10/2026 04:09
 4f63f1e9-2709-42e6-823b-010e1a68ee8f,pyramids.villas,available,59.99,59.99,high,low,8,namesilo,,,30/09/2026 06:41
 292f1e12-c5be-4e8a-8617-07b44099a07c,annie.villas,available,62.98,74.98,medium,low,5,namecheap,,,25/09/2026 18:17
 e1e02234-6077-497b-9a62-53eb86083c6e,toured.villas,available,59.99,59.99,high,low,6,namesilo,,,20/09/2026 05:39
@@ -59,7 +64,8 @@ f694d24b-23b2-40df-b742-3773e026fe59,holder.villas,available,47.81,47.81,high,lo
 c2143613-3180-40c5-a81e-ce51ba0b8cb5,senile.villas,available,19.99,80.99,medium,low,6,name.com,,,14/08/2026 14:36
 d7e55701-52f9-4407-9a78-d91d021aa9ec,gangs.villas,available,10.81,47.89,low,low,5,porkbun,,,28/09/2026 13:19
 8e8869f3-7fea-4e17-8a1b-1c9e276646b7,liquefied.villas,available,19.99,80.99,medium,low,9,name.com,,,23/08/2026 22:01
-3f818a92-725c-4311-b703-ec939a42ca67,importantly.villas,available,19.99,,medium,low,11,name.com,,,
+3f818a92-725c-4311-b703-ec939a42ca67,importantly.villas,available,59.99,59.99,medium,low,11,namesilo,,,01/10/2026 06:18
+57c97a29-86a1-4198-8ce9-dfa6df53ff1c,amalia.villas,available,59.99,59.99,high,low,6,namesilo,,,01/10/2026 23:56
 406de865-7ecb-493c-bc9b-af760a24d9de,rejected.villas,available,59.99,59.99,medium,low,8,namesilo,,,25/09/2026 11:50
 e4f5c407-133a-4c53-b4a0-da44edad6f9e,verbal.villas,available,47.81,47.81,high,low,6,spaceship,,,28/09/2026 10:13
 5b9dcb6b-b6e0-4dc4-90ca-feacf755eca3,poise.villas,available,62.98,74.98,high,low,5,namecheap,,,19/09/2026 17:50
@@ -76,6 +82,7 @@ b00c624c-2a14-4881-8cd1-11ac0d430f09,examiner.villas,available,46.2,46.2,medium,
 fb91692b-0241-47bc-aa22-f045b0336962,bratislava.villas,available,10.92,49.44,high,low,10,dynadot,,,28/09/2026 13:35
 07b000d2-370a-4ead-a9fa-a9a21b89520c,won.villas,available,46.2,46.2,high,low,3,cloudflare,,,28/09/2026 10:43
 1fb6a64c-7499-4ac0-a7df-8edb3ef420a4,garza.villas,available,47.81,47.81,medium,low,5,spaceship,,,28/09/2026 21:33
+2c752e57-3a8c-4af0-88f3-52a8a0c6fb19,restrictive.villas,available,59.99,59.99,high,low,11,namesilo,,,01/10/2026 06:03
 0ca41039-bb20-4914-870d-36f48cf9fb60,esophageal.villas,available,19.99,80.99,medium,low,10,name.com,,,17/08/2026 13:16
 a3a7206a-42e7-4cc8-bfd2-1b8e962e3d22,buttonwood.villas,available,62.98,74.98,medium,low,10,namecheap,,,18/09/2026 20:34
 e81dfac3-a2fd-4ae1-b344-75b1715a93f4,manipulate.villas,available,62.98,74.98,high,low,10,namecheap,,,28/09/2026 05:48
@@ -83,6 +90,7 @@ aa65c912-4752-47b8-a53d-1267dc798eb0,auriferous.villas,available,59.99,59.99,med
 922b2313-fed1-476c-aa71-346e9eb134f4,reef.villas,available,62.98,74.98,high,low,4,namecheap,,,28/09/2026 10:48
 e082ee5f-cfcf-49fe-9e9b-a124d3ca39aa,bellyful.villas,available,59.99,59.99,medium,low,8,namesilo,,,23/09/2026 06:51
 1163d50d-25c8-42b1-9b15-3a4fa258b2e0,scowling.villas,available,19.99,80.99,medium,low,8,name.com,,,09/08/2026 08:33
+587f6ee7-b7ea-4210-94d2-717daadeecaa,cnt.villas,available,47.81,47.81,high,low,3,spaceship,,,01/10/2026 23:15
 5eedc987-6ef8-4d67-bc8d-fc1e2a6e89af,nsc.villas,available,46.2,46.2,high,low,3,cloudflare,,,29/09/2026 07:39
 88a8561b-ecbc-4f89-bb0b-78fb49502b5f,bph.villas,available,62.98,74.98,high,low,3,namecheap,,,23/09/2026 08:07
 185bbc74-2f00-40ee-9e06-a7c43df50baf,romany.villas,available,19.99,80.99,high,low,6,name.com,,,10/08/2026 17:25
@@ -168,6 +176,7 @@ f090b4a2-9257-4bc2-8c76-a797060db45b,planar.villas,available,59.99,59.99,high,lo
 ef685856-1dcd-4a99-807a-442fe259b7b3,castle.villas,available,59.99,59.99,high,low,6,namesilo,,,25/09/2026 04:06
 5317f491-55c4-4a83-9c54-488ff42d9a31,laramie.villas,available,47.81,47.81,medium,low,7,spaceship,,,28/09/2026 14:40
 ca08d49d-ed64-43ca-8dc4-edc802cf13fc,employee.villas,available,59.99,59.99,high,low,8,namesilo,,,29/09/2026 08:21
+0d800b88-8afd-4059-aa9b-fb4312e0b834,nodes.villas,available,47.81,47.81,medium,low,5,spaceship,,,01/10/2026 18:29
 a811ac84-5816-46f1-97fb-96ffe538d170,airs.villas,available,59.99,59.99,high,low,4,namesilo,,,17/09/2026 23:21
 62064f74-c0f3-43d1-b4ec-a1cb77abc568,esteemed.villas,available,19.99,80.99,high,low,8,name.com,,,17/08/2026 13:23
 1604db08-9118-4171-9794-79d074155e53,judged.villas,available,46.2,46.2,low,low,6,cloudflare,,,28/09/2026 12:50
@@ -183,6 +192,7 @@ a93f3281-8624-4f21-a3ec-36a00c5be480,behavioral.villas,available,19.99,80.99,med
 9b2846b5-871b-4c5a-9e16-b2656516063f,cherished.villas,available,19.99,80.99,high,low,9,name.com,,,12/08/2026 04:13
 a890136d-0107-4cf9-920b-d64528501e7e,khat.villas,available,59.99,59.99,medium,low,4,namesilo,,,17/09/2026 15:23
 4d25b558-90f4-464a-9d80-447796e2587a,coccoid.villas,available,19.99,80.99,medium,low,7,name.com,,,12/08/2026 14:41
+f4a4183a-85e3-47cf-b5b2-7e740a98e101,refueling.villas,available,59.99,59.99,high,low,9,namesilo,,,01/10/2026 19:40
 1cab3e12-c4d1-41d9-94d9-145ab60d8993,mum.villas,available,59.99,59.99,high,low,3,namesilo,,,25/09/2026 22:08
 257133ee-d212-4f40-a56c-ea6fcd77e89b,alopex.villas,available,59.99,59.99,medium,low,6,namesilo,,,18/09/2026 13:19
 e6f39b5c-a1a1-4092-bc0d-3471462f0a52,tabriz.villas,available,62.98,74.98,medium,low,6,namecheap,,,01/10/2026 04:00
@@ -200,13 +210,14 @@ b054defe-f37a-476e-9fa8-ac69b3e77901,conventionally.villas,available,19.99,,medi
 0ad07132-ed69-4968-bafd-5abd2bafcc22,guitarist.villas,available,10.92,49.44,high,low,9,dynadot,,,01/10/2026 02:21
 f6cec5e7-c87f-4128-b117-6938c5ff493b,pretzel.villas,available,46.2,46.2,high,low,7,cloudflare,,,30/09/2026 07:15
 4b8ac08c-299d-4191-a06e-5a0a7ab01374,dense.villas,available,59.99,59.99,high,low,5,namesilo,,,08/09/2026 15:39
-ae63247d-f6e8-4222-aeb0-ad21818ac083,manageable.villas,available,62.98,74.98,high,low,10,namecheap,,,28/09/2026 15:51
+ae63247d-f6e8-4222-aeb0-ad21818ac083,manageable.villas,available,62.98,74.98,high,low,10,namecheap,,,01/10/2026 13:54
 b9f62006-7116-4d60-ba62-38037eee6f2e,ache.villas,available,19.99,80.99,medium,low,4,name.com,,,
 b3d23737-0c2e-4af5-b6a8-6517df2a4cf1,donatus.villas,available,59.99,59.99,medium,low,7,namesilo,,,17/09/2026 12:26
 1d0a8c83-1994-43f3-b940-3f6f3faed8e4,loopy.villas,available,19.99,80.99,medium,low,5,name.com,,,06/08/2026 21:22
 6e6fa3b5-f00e-4d82-88c4-cb8e743b6346,heliacal.villas,available,19.99,80.99,medium,low,8,name.com,,,21/08/2026 06:23
 17dd139e-99a9-4c42-b678-afeb018d9a55,sinful.villas,available,19.99,80.99,medium,low,6,name.com,,,22/08/2026 05:27
-d4f45643-5874-4c14-97d1-3773dcd17c01,implying.villas,available,19.99,,high,low,8,name.com,,,
+d4f45643-5874-4c14-97d1-3773dcd17c01,implying.villas,available,59.99,59.99,high,low,8,namesilo,,,01/10/2026 23:05
+664afc86-21a2-4dfb-a5aa-cdea5728c936,hardie.villas,available,47.81,47.81,medium,low,6,spaceship,,,01/10/2026 11:41
 04ed302f-bae0-4b68-a04e-04d32b712cd4,together.villas,available,47.81,47.81,high,medium,8,spaceship,,,28/09/2026 09:16
 a29ad416-95c0-44eb-b3d5-48c720a1f174,beers.villas,available,59.99,59.99,medium,low,5,namesilo,,,27/09/2026 10:55
 7054c366-1168-4c30-b85d-5c64c41ce6cb,accomplish.villas,available,46.2,46.2,high,low,10,cloudflare,,,28/09/2026 06:55
@@ -217,7 +228,7 @@ f3aec1d2-b83c-4e88-8d76-6f11a4946dd0,dysfunction.villas,available,59.99,59.99,hi
 ceb7610e-f4ca-4ab5-bcbd-e2756ed16881,griffiths.villas,available,62.98,74.98,medium,low,9,namecheap,,,26/09/2026 03:40
 962021d0-5d45-43fc-88fa-a12804e49d94,babylonian.villas,available,19.99,80.99,medium,low,10,name.com,,,08/08/2026 03:58
 e4501d32-8731-430d-97a6-3c49df442e94,zippo.villas,available,59.99,59.99,high,low,5,namesilo,,,03/09/2026 22:45
-8bdc0b95-bcb1-436f-bfa1-0c9a023a40b9,wasnt.villas,available,19.99,,low,low,5,name.com,,,
+8bdc0b95-bcb1-436f-bfa1-0c9a023a40b9,wasnt.villas,available,59.99,59.99,medium,low,5,namesilo,,,02/10/2026 04:19
 fecec32f-a052-4862-9641-be03b8ade1e2,unclaimed.villas,available,59.99,59.99,high,low,9,namesilo,,,12/09/2026 05:13
 9d41ee19-c106-489f-90bf-04e5dedd7acf,finish.villas,available,59.99,59.99,high,low,6,namesilo,,,08/09/2026 15:33
 f0e6a227-bc88-4c2e-830e-21f49a076f5d,straying.villas,available,59.99,59.99,medium,low,8,namesilo,,,10/09/2026 22:14
@@ -231,7 +242,7 @@ a15a5eb0-f565-45ec-aeb2-28b8b69382a7,audacious.villas,available,59.99,59.99,high
 ba92cb17-fe0b-4724-a094-d3182a5f66e4,aqaba.villas,available,62.98,74.98,medium,low,5,namecheap,,,17/09/2026 23:49
 00fce3eb-80cd-4b03-ba59-5833146a58bc,chromium.villas,available,59.99,59.99,medium,low,8,namesilo,,,20/09/2026 22:39
 bc23ed73-f200-4da3-be29-962115278070,blush.villas,available,19.99,80.99,high,low,5,name.com,,,13/08/2026 06:32
-f05c1b8e-135c-4f03-acdc-b8e0b0a3d674,landscaping.villas,available,47.81,47.81,high,low,11,spaceship,,,28/09/2026 06:56
+f05c1b8e-135c-4f03-acdc-b8e0b0a3d674,landscaping.villas,available,47.81,47.81,high,low,11,spaceship,,,01/10/2026 15:25
 169adac0-6a0a-457c-bcaf-d45a9372753e,unnerved.villas,available,59.99,59.99,medium,low,8,namesilo,,,12/09/2026 15:54
 2ee81d9e-ccca-4e81-ad9f-2a6b25dc9791,ankara.villas,available,59.99,59.99,high,low,6,namesilo,,,19/09/2026 07:05
 643b4fd5-4ed9-46f2-80ce-067264159509,asocial.villas,available,19.99,80.99,medium,low,7,name.com,,,07/08/2026 04:36
@@ -245,9 +256,10 @@ f0fe1d5c-2382-4b9a-bf4c-0d06d397cb85,heatable.villas,available,19.99,80.99,mediu
 fe47ef60-b75e-47b4-b467-12ab79e0f272,parched.villas,available,19.99,80.99,medium,low,7,name.com,,,
 54032f94-7c1f-42b4-b493-534d39fef190,flap.villas,available,59.99,59.99,high,low,4,namesilo,,,24/09/2026 23:15
 7786f888-677f-4d81-b190-4b647772af44,verbosely.villas,available,59.99,59.99,medium,low,9,namesilo,,,15/09/2026 12:43
+b524d1bc-ab2b-4725-8427-c9c6af51e9e0,ardmore.villas,available,47.81,47.81,medium,low,7,spaceship,,,01/10/2026 12:29
 9fecb1bb-a845-4889-9117-77e526e866fa,tag.villas,available,59.99,59.99,high,medium,3,namesilo,,,24/09/2026 13:51
 bf18b80d-ccca-4b0c-ae22-8d02d367f239,hastily.villas,available,59.99,59.99,medium,low,7,namesilo,,,14/09/2026 23:06
-8d3deefa-0304-4a64-a6dc-53476ea057c3,volvo.villas,available,19.99,,high,low,5,name.com,,,
+8d3deefa-0304-4a64-a6dc-53476ea057c3,volvo.villas,available,59.99,59.99,high,low,5,namesilo,,,01/10/2026 11:45
 49cbe1bb-4163-48c6-b7d6-140d3ecaadd0,nebular.villas,available,19.99,80.99,medium,low,7,name.com,,,12/08/2026 12:39
 ae7dcbc7-4659-40db-881b-46c590288147,composition.villas,available,47.81,47.81,medium,low,11,spaceship,,,28/09/2026 22:45
 8aad1ffc-ffb2-4931-8e6c-5c0a210881ae,translation.villas,available,19.99,,high,low,11,name.com,,,
@@ -257,6 +269,9 @@ c729685f-513b-4ec8-8666-263c891d58e4,saman.villas,available,59.99,59.99,high,low
 d79ff9b8-9481-45ec-a532-12227976e86c,department.villas,available,47.81,47.81,high,low,10,spaceship,,,29/09/2026 14:02
 c83236c7-42c2-495f-a32a-3ef089eb7331,conferences.villas,available,59.99,59.99,medium,low,11,namesilo,,,30/09/2026 07:38
 564a2bb7-2460-4baa-b5f3-702854188967,lumbar.villas,available,19.99,80.99,high,low,6,name.com,,,24/08/2026 11:06
+beb2fd5c-c9bf-4966-bea7-298ce481c735,picturesque.villas,available,47.81,47.81,high,low,11,spaceship,,,01/10/2026 04:56
+044211d8-587a-4f2a-9bff-97a33fde0fde,steaks.villas,available,62.98,74.98,medium,low,6,namecheap,,,02/10/2026 03:26
+89344881-1e6c-47f3-8838-b2dfa18a699c,ivanhoe.villas,available,47.81,47.81,high,low,7,spaceship,,,01/10/2026 08:05
 392ca600-f464-4672-9d6a-6af6e6854514,dimensional.villas,available,47.81,47.81,high,low,11,spaceship,,,30/09/2026 03:41
 989641b4-cc41-4032-9212-e6fa782a4cdb,zoo.villas,available,59.99,59.99,high,low,3,namesilo,,,26/09/2026 00:33
 e6f8eb43-4624-4533-aeb9-4925907d2a94,fisheye.villas,available,19.99,80.99,high,low,7,name.com,,,18/08/2026 05:28
@@ -303,6 +318,7 @@ e884ee04-4fd5-4530-a095-8a727e5d6e8c,talky.villas,available,19.99,80.99,medium,l
 93396a78-e6ef-4ee3-a215-35e38704b3d3,chores.villas,available,46.2,46.2,medium,low,6,cloudflare,,,29/09/2026 17:46
 55724b9d-f4fb-4edc-8540-56666cd088a7,drivers.villas,available,46.2,46.2,high,low,7,cloudflare,,,28/09/2026 03:43
 27180a63-951f-4085-8e53-d4fb8cd5f0bf,subjects.villas,available,19.99,,medium,low,8,name.com,,,
+ba320b17-4adf-48d9-9a34-e51bd566bd4c,hamer.villas,available,59.99,59.99,high,low,5,namesilo,,,01/10/2026 07:09
 4a3ad9b1-aa93-45d6-bca2-83964de23eb5,astrometry.villas,available,62.98,74.98,medium,low,10,namecheap,,,20/09/2026 17:53
 efa8ff20-f8a2-4a96-802b-759822190116,cracker.villas,available,62.98,74.98,high,low,7,namecheap,,,24/09/2026 18:59
 15306909-c5d7-4ca7-b3b1-608bf77f76ff,stupendous.villas,available,19.99,80.99,high,low,10,name.com,,,12/08/2026 18:00
@@ -312,10 +328,11 @@ a27899ae-cb90-44fe-97b5-9ae395ceeb08,quaternion.villas,available,19.99,80.99,med
 003cfb10-353b-42be-be26-ff1e8a5faed2,auditive.villas,available,19.99,80.99,medium,low,8,name.com,,,07/08/2026 16:49
 4a5adfa2-e951-4970-81f7-48135b661040,ferny.villas,available,19.99,80.99,medium,low,5,name.com,,,18/08/2026 02:00
 d477ea7f-751b-4679-be46-f0077872183d,singly.villas,available,59.99,59.99,medium,low,6,namesilo,,,15/09/2026 08:03
+864b56e5-e274-417a-88f0-ce0ad170b630,endo.villas,available,10.81,47.89,high,low,4,porkbun,,,01/10/2026 05:47
 b851edb6-10c0-4bb7-abf9-4a6dee1fb79a,billing.villas,available,62.98,74.98,high,low,7,namecheap,,,30/09/2026 16:32
 d72a5280-26aa-4fb0-96f2-6d0874b699f4,process.villas,available,59.99,59.99,high,low,7,namesilo,,,28/09/2026 08:33
 4442a296-2230-4e67-bc83-b02eefc43e26,crypt.villas,available,62.98,74.98,high,low,5,namecheap,,,24/09/2026 19:58
-f16499e6-99b7-469d-a09c-cd3548101a3e,secondhand.villas,available,59.99,59.99,high,low,10,namesilo,,,10/09/2026 01:09
+f16499e6-99b7-469d-a09c-cd3548101a3e,secondhand.villas,available,59.99,59.99,medium,low,10,namesilo,,,02/10/2026 01:16
 13857465-1d31-4f2d-ae60-e1bcd92811c8,gwen.villas,available,10.81,47.89,high,low,4,porkbun,,,27/09/2026 19:20
 7e980e20-6e75-42fc-9b55-2a3cb2c50b3a,tinker.villas,available,46.2,46.2,high,low,6,cloudflare,,,29/09/2026 18:20
 bf8015af-62fe-43e7-9dc6-0dbbe30f8252,querulous.villas,available,59.99,59.99,medium,low,9,namesilo,,,09/09/2026 08:33
@@ -327,6 +344,7 @@ c9710d09-9523-43b8-a47b-7cb656c6afa8,homebody.villas,available,19.99,80.99,high,
 ef0f89d3-d6e1-4a6b-92d3-1115236c3275,gaston.villas,available,59.99,59.99,high,low,6,namesilo,,,25/09/2026 12:38
 bae0f3aa-8cf2-4a3a-a579-2b8ae76f5b7a,marbles.villas,available,46.2,46.2,high,low,7,cloudflare,,,29/09/2026 07:32
 c32bd1e0-9e44-425d-b936-c492f3534f1e,pager.villas,available,59.99,59.99,high,low,5,namesilo,,,23/09/2026 01:32
+b824daf9-02fd-41f9-9e5e-06500c3a158d,consented.villas,available,47.81,47.81,medium,low,9,spaceship,,,02/10/2026 02:29
 1334df6e-2117-4807-a042-12d077164167,travels.villas,available,59.99,59.99,high,low,7,namesilo,,,17/09/2026 06:44
 a93360cc-d259-4d61-936d-0db524714152,piggyback.villas,available,59.99,59.99,high,low,9,namesilo,,,15/09/2026 19:45
 a0e855f5-1cd6-4477-aff4-eb163dad4373,dom.villas,premium,78.54,78.54,high,medium,3,namesilo,,,28/09/2026 07:01
@@ -334,12 +352,14 @@ a0e855f5-1cd6-4477-aff4-eb163dad4373,dom.villas,premium,78.54,78.54,high,medium,
 7b694877-6555-44f2-9f98-7a8e9bd00d81,adornment.villas,available,59.99,59.99,high,low,9,namesilo,,,17/09/2026 09:46
 a9c792c5-86bb-4928-85a3-413b23fe3b53,sophia.villas,available,59.99,59.99,high,low,6,namesilo,,,28/09/2026 07:06
 70361274-b94d-41f0-a0d8-4b6d8e5f3fec,toledo.villas,available,46.2,46.2,medium,low,6,cloudflare,,,28/09/2026 15:28
+ac48d95f-2790-460d-9124-8ccff0aecc0c,hons.villas,available,10.92,49.44,medium,low,4,dynadot,,,01/10/2026 15:47
 cf68b752-422d-40bd-adf5-f1b7b6135296,arcminute.villas,available,59.99,59.99,medium,low,9,namesilo,,,20/09/2026 02:40
 68ade3c8-c51b-4a8c-8e23-d3687d0ccded,themes.villas,available,59.99,59.99,medium,low,6,namesilo,,,30/09/2026 06:34
 2633a177-6ce9-4613-aedc-c8e3bb1bb5a6,commix.villas,available,19.99,80.99,medium,low,6,name.com,,,
 7ddcfe1b-97d0-4847-adbf-54b891fd8c60,quaint.villas,available,59.99,59.99,high,low,6,namesilo,,,04/09/2026 01:55
 11f3961a-ae50-4095-93ab-5d0006a80f38,abcs.villas,available,59.99,59.99,high,low,4,namesilo,,,16/09/2026 14:38
 ecb98a18-434e-40d8-9469-48b6b1ed0753,apostasy.villas,available,62.98,74.98,medium,low,8,namecheap,,,19/09/2026 19:16
+17f6a8d1-e30a-4c2a-a452-4f8427b18e21,pearse.villas,available,47.81,47.81,medium,low,6,spaceship,,,02/10/2026 01:53
 83c56d9d-7c57-468a-8968-d16c6f5e5961,allgood.villas,available,59.99,59.99,high,low,7,namesilo,,,18/09/2026 10:56
 3276bc63-a040-4983-a60b-1f5ff5fda590,lividly.villas,available,59.99,59.99,low,low,7,namesilo,,,15/09/2026 12:36
 4eb862aa-58dc-4b91-aa11-df7a456cd4fc,baronage.villas,available,59.99,59.99,high,low,8,namesilo,,,22/09/2026 07:18
@@ -354,6 +374,7 @@ b2ce669c-1fa8-4535-bd02-5b4f4587c887,twisty.villas,available,59.99,59.99,high,lo
 3a3659c6-f620-4188-ac8f-d12966bc2660,antler.villas,available,59.99,59.99,medium,low,6,namesilo,,,19/09/2026 15:20
 f7fc54be-556f-4a2a-a98b-2f76febc4069,burnside.villas,available,59.99,59.99,high,low,8,namesilo,,,16/09/2026 12:53
 2a52bd9c-3dc2-44b0-935c-92f6f0152478,inception.villas,available,46.2,46.2,high,low,9,cloudflare,,,29/09/2026 23:45
+69763f42-438b-405f-a948-424b036686c0,inconvenient.villas,available,59.99,59.99,high,low,12,namesilo,,,01/10/2026 05:50
 fe322e15-a883-46e6-98a9-9442118f48b5,cinnabar.villas,available,19.99,80.99,medium,low,8,name.com,,,12/08/2026 05:49
 d938d71c-5269-4783-9450-5aa14c2afdc6,laurie.villas,available,59.99,59.99,high,low,6,namesilo,,,25/09/2026 17:15
 705c6b0a-3b9f-49b6-9de9-cd91e10d074b,nineteenth.villas,available,19.99,80.99,high,low,10,name.com,,,
@@ -386,11 +407,13 @@ dc375013-84d3-4398-a628-26439395069e,cheddar.villas,available,19.99,80.99,high,l
 bccb9049-6da1-423f-8239-78c826e180b3,vitalizing.villas,available,19.99,80.99,high,low,10,name.com,,,23/08/2026 01:35
 45da6ea4-a27f-4385-b53f-ce7ca0050e3b,analyzer.villas,available,59.99,59.99,high,low,8,namesilo,,,19/09/2026 01:55
 afc86223-a150-49c1-be2b-9fbe754a630e,membered.villas,available,19.99,80.99,medium,low,8,name.com,,,24/08/2026 19:49
+0a61216c-b9a1-490c-9ef0-a4fc32009b48,anya.villas,available,59.99,59.99,high,low,4,namesilo,,,01/10/2026 23:47
 9a7cdaf0-be8b-4823-8d00-c345709831a9,randomly.villas,available,59.99,59.99,medium,low,8,namesilo,,,13/09/2026 20:35
+f898d9ac-f06c-4f31-88a1-2d0842c163ac,landscapes.villas,available,46.2,46.2,medium,low,10,cloudflare,,,01/10/2026 18:18
 b28fd1f5-feda-42f9-b06d-fb099c411187,originals.villas,available,59.99,59.99,high,low,9,namesilo,,,30/09/2026 07:08
 15548f86-27bc-4c0a-9a6e-8f67f2ddaf7e,decidedly.villas,available,59.99,59.99,medium,low,9,namesilo,,,14/09/2026 02:04
 cf98b976-61d2-4fcc-b533-47d465060312,belorussia.villas,available,62.98,74.98,medium,low,10,namecheap,,,23/09/2026 04:27
-640df6b5-2fcf-401a-8ae0-a4fedbb20753,sumbuddy.villas,available,19.99,,low,low,8,name.com,,,
+640df6b5-2fcf-401a-8ae0-a4fedbb20753,sumbuddy.villas,available,59.99,59.99,medium,low,8,namesilo,,,02/10/2026 04:45
 8c4560fe-ec2f-4fe7-a095-e465a4adf57a,authorial.villas,available,19.99,80.99,medium,low,9,name.com,,,07/08/2026 16:19
 7f752c87-75e3-48c2-9a1e-00efe497a700,pillowcases.villas,available,59.99,59.99,medium,low,12,namesilo,,,21/09/2026 01:49
 e0096cc2-d08e-4820-b26a-2302cf22c3b2,kari.villas,available,59.99,59.99,medium,low,4,namesilo,,,30/09/2026 13:17
@@ -402,13 +425,14 @@ c61c672b-1e94-429e-88ff-9f05c4de1c4c,proteins.villas,available,59.99,59.99,mediu
 b6cfccc1-ca6a-4c26-b5bb-4a9188f5cfd4,babylonia.villas,available,59.99,59.99,high,low,9,namesilo,,,21/09/2026 13:51
 1afd33b4-c134-4f6f-9e0f-0cf0420b9d1b,appetising.villas,available,19.99,80.99,medium,low,10,name.com,,,06/08/2026 06:50
 893030cb-7934-498d-8183-47c1e6e3ba8c,palatine.villas,available,59.99,59.99,medium,low,8,namesilo,,,04/09/2026 23:20
+f42b74cd-af54-4849-8801-786c3072e8bb,parcels.villas,available,62.98,74.98,medium,low,7,namecheap,,,01/10/2026 18:14
 765b38aa-22e1-4a8b-b99f-fd3db30e1f58,newman.villas,available,59.99,59.99,high,low,6,namesilo,,,25/09/2026 03:58
 5fdbb0f5-948e-45c1-84e9-ba13dadc3470,asterism.villas,available,59.99,59.99,medium,low,8,namesilo,,,20/09/2026 17:12
 326e7eb7-75ea-4e8b-9b84-ec916b39d2ed,roiling.villas,available,62.98,74.98,medium,low,7,namecheap,,,09/09/2026 18:16
 b0bdd65e-6062-4562-afe4-ec87fbc5ea2e,devotional.villas,available,19.99,80.99,high,low,10,name.com,,,14/08/2026 05:15
 2f9af812-d832-4246-972e-5a1029dddf12,prosecution.villas,available,19.99,,high,low,11,name.com,,,
 654d0a76-8b78-4bc7-b4d9-7d27cc1f0949,tries.villas,available,62.98,74.98,medium,low,5,namecheap,,,25/09/2026 19:53
-feb66214-4f84-4072-ad12-1abd851bf353,blister.villas,available,59.99,59.99,high,low,7,namesilo,,,24/09/2026 05:20
+feb66214-4f84-4072-ad12-1abd851bf353,blister.villas,available,47.81,47.81,medium,low,7,spaceship,,,02/10/2026 01:57
 8ad7ddc9-68ad-42e1-8b7f-5f6b33113510,extremely.villas,available,59.99,59.99,medium,low,9,namesilo,,,27/09/2026 02:51
 95ccf66c-622e-4b42-80f0-8a6453a48bde,tried.villas,available,101.99,101.99,high,low,5,godaddy,,,28/09/2026 02:21
 b6e3654c-23c3-4d6a-bca9-ffaa60add271,yost.villas,available,46.2,46.2,medium,low,4,cloudflare,,,29/09/2026 22:40
@@ -469,6 +493,7 @@ e3b57d0b-f979-4137-9191-567cee17217b,expedition.villas,available,47.81,47.81,hig
 47b7c95d-9917-4fac-a8e9-38337b2b510a,fiscal.villas,available,59.99,59.99,high,low,6,namesilo,,,19/09/2026 10:22
 20e43838-6ae5-40ee-8c57-65939add8eab,menopausal.villas,available,19.99,80.99,medium,low,10,name.com,,,24/08/2026 20:15
 2e820215-014e-43eb-b54e-2c922172908d,humour.villas,available,62.98,74.98,high,low,6,namecheap,,,24/09/2026 06:31
+a03e070e-a248-4874-9e9b-15b7e94af4a7,chaves.villas,available,10.81,47.89,medium,low,6,porkbun,,,02/10/2026 00:42
 5931536b-58b9-4a5a-8978-fb6f200bed19,besotted.villas,available,19.99,80.99,medium,low,8,name.com,,,09/08/2026 15:27
 ca3bf452-059a-4fc7-a728-6fa38b8a254b,barrel.villas,available,59.99,59.99,high,low,6,namesilo,,,22/09/2026 08:08
 8f812809-1ea0-45ad-a6d8-57de7445c8b5,christie.villas,available,59.99,59.99,high,low,8,namesilo,,,17/09/2026 16:30
@@ -500,7 +525,6 @@ feadfbe6-0ef2-42f8-85d0-79b24c8b4481,involves.villas,available,59.99,59.99,mediu
 4dad3e8f-e535-4067-8f4d-417c46c1e3ed,necessarily.villas,available,10.81,47.89,medium,low,11,porkbun,,,01/10/2026 01:47
 b24e9ae3-2684-49ec-b5d6-c310534b1179,benzol.villas,available,59.99,59.99,high,low,6,namesilo,,,23/09/2026 08:53
 f16e2a99-6ba5-41d9-b2e1-0e5530e489d0,antiphony.villas,available,59.99,59.99,medium,low,9,namesilo,,,19/09/2026 14:57
-f1cf70e6-9456-452a-9926-f92752365f08,adviseable.villas,available,19.99,,high,low,10,name.com,,,
 d19fdbbc-43d0-4016-8c1d-6e5cc41a2afd,bracelet.villas,available,59.99,59.99,high,low,8,namesilo,,,22/09/2026 01:56
 1a21c5c7-5c85-4caf-90b8-fe913212db7e,zhao.villas,available,59.99,59.99,high,low,4,namesilo,,,27/09/2026 20:53
 245cee56-eaca-4578-ac65-f689e1eda9ef,spanking.villas,available,19.99,80.99,high,low,8,name.com,,,11/08/2026 04:33
@@ -516,6 +540,7 @@ ff0efc3f-2d8d-4b7d-b277-e7a9373370d9,repeat.villas,available,59.99,59.99,high,lo
 780bac26-6293-41f2-8b7d-3b623dbeda6a,novosibirsk.villas,available,47.81,47.81,medium,low,11,spaceship,,,30/09/2026 05:10
 03020e9c-0d28-43bb-8d79-c1bbd0503570,bordered.villas,available,59.99,59.99,medium,low,8,namesilo,,,22/09/2026 23:55
 1d41ad6f-094f-44ce-a562-c1e7d0d887fd,aucuba.villas,available,62.98,74.98,medium,low,6,namecheap,,,21/09/2026 02:47
+73adde23-d606-4303-8e7b-c0df1900c1e0,guitars.villas,premium,,,medium,low,7,,,,01/10/2026 17:52
 16e17e88-5fb4-4060-8813-d79e84d1c237,ownerless.villas,available,59.99,59.99,high,low,9,namesilo,,,04/09/2026 22:18
 9b31ee4f-3302-49bc-92ce-5fa20054ce11,resister.villas,available,62.98,74.98,medium,low,8,namecheap,,,17/09/2026 10:48
 78887d77-a3c9-4c4d-81fe-e88f8ec984ed,sugar.villas,available,47.81,47.81,high,low,5,spaceship,,,29/09/2026 08:02
@@ -532,10 +557,12 @@ b6cdc43a-e2cd-41ab-acf3-7ca3d93309e0,islington.villas,available,47.81,47.81,high
 9d6e982e-9bb3-40cf-8c60-b250c9ff01bf,laurels.villas,available,59.99,59.99,high,low,7,namesilo,,,16/09/2026 22:48
 221ac48e-d585-4d2c-8830-bb2683561dea,fis.villas,available,10.92,49.44,high,low,3,dynadot,,,28/09/2026 03:41
 d0b7bc6f-b4be-4c83-b21e-b1bf515899c5,perverse.villas,available,19.99,80.99,medium,low,8,name.com,,,14/08/2026 02:31
+67d6898c-4897-455e-ae84-7d1a7e297b13,chamberlain.villas,available,10.92,49.44,medium,low,11,dynadot,,,01/10/2026 22:56
 16d77a3a-bc8f-4e42-b38d-33c33a6f92ea,spiders.villas,available,62.98,74.98,medium,low,7,namecheap,,,16/09/2026 05:32
 0d21f3ac-1459-4314-8e1c-fc8a42fd8549,anonymous.villas,available,59.99,59.99,high,low,9,namesilo,,,22/09/2026 05:30
 f408f7ad-8c9d-4425-b210-c94902aa071b,moderately.villas,available,59.99,59.99,medium,low,10,namesilo,,,25/09/2026 12:00
 6bfebc3c-52af-40de-9d68-cf042bbc6f57,reo.villas,available,10.92,49.44,medium,low,3,dynadot,,,30/09/2026 19:33
+60ba8202-541a-4256-a524-406e56a8dce9,shingle.villas,available,62.98,74.98,high,low,7,namecheap,,,01/10/2026 21:39
 e5788f2f-976e-43e1-a8d6-925e392d9fc3,dastard.villas,available,19.99,80.99,medium,low,7,name.com,,,13/08/2026 18:32
 b4dd2191-60a9-4850-b0c4-d99abb85978e,idyll.villas,available,59.99,59.99,high,low,5,namesilo,,,08/09/2026 10:11
 bbdc236a-b9dc-4585-aa55-ca49644e266e,forsooth.villas,available,62.98,74.98,low,low,8,namecheap,,,14/09/2026 19:55
@@ -543,7 +570,7 @@ bbdc236a-b9dc-4585-aa55-ca49644e266e,forsooth.villas,available,62.98,74.98,low,l
 cd8d7ab8-05ba-40bd-b9f8-c531970b733b,zapata.villas,available,59.99,59.99,high,low,6,namesilo,,,29/09/2026 18:45
 c9c08294-cf84-48d6-af1f-d04d7f67f0d4,aeschylus.villas,available,59.99,59.99,medium,low,9,namesilo,,,17/09/2026 13:19
 4c0a2822-0ad5-4518-937d-ab14003209b6,gravesend.villas,available,59.99,59.99,medium,low,9,namesilo,,,30/09/2026 21:51
-cbeedb09-7222-488f-bed4-d5a0c2034459,connectivity.villas,available,47.81,47.81,high,low,12,spaceship,,,28/09/2026 07:10
+cbeedb09-7222-488f-bed4-d5a0c2034459,connectivity.villas,available,59.99,59.99,high,low,12,namesilo,,,01/10/2026 17:34
 ee8c8751-6bce-4539-b63e-495d64f830e2,damascene.villas,available,19.99,80.99,medium,low,9,name.com,,,13/08/2026 16:07
 0ed6ec7f-aaf0-40fc-a44a-858b8e9ef03a,actinism.villas,available,59.99,59.99,medium,low,8,namesilo,,,17/09/2026 04:50
 775400b0-4a31-4d4d-ad2d-1eb78606b21c,transexual.villas,available,62.98,74.98,medium,low,10,namecheap,,,11/09/2026 19:01
@@ -562,6 +589,7 @@ fc85f72e-c38f-4641-b65f-a4691ae66677,paulson.villas,available,47.81,47.81,medium
 4233ed3d-86fd-40da-8cf2-6a2b1323e7e7,impulsive.villas,available,19.99,80.99,high,low,9,name.com,,,11/08/2026 01:34
 35f255b5-d1df-4335-a579-51753eb31353,tummy.villas,available,62.98,74.98,high,low,5,namecheap,,,22/09/2026 17:49
 03302abc-f817-4492-8339-2ac79d3801c8,capitate.villas,available,19.99,80.99,medium,low,8,name.com,,,11/08/2026 17:57
+bb84178f-5367-462f-a962-391e03826b32,abington.villas,available,59.99,59.99,high,low,8,namesilo,,,02/10/2026 01:44
 3357cb8d-2cf0-424a-84ef-fbceaa09b800,troop.villas,available,46.2,46.2,high,low,5,cloudflare,,,28/09/2026 02:58
 d48a69de-e9c5-4562-8861-4c38beec5fe9,thirteenth.villas,available,19.99,80.99,high,low,10,name.com,,,
 2c11211e-ad20-4f98-a591-1cc9ccb59771,bookworm.villas,available,59.99,59.99,high,low,8,namesilo,,,09/09/2026 23:16
@@ -570,6 +598,7 @@ f79b6bbd-071e-4a1e-96a1-4d69e9dbf81b,debut.villas,available,62.98,74.98,high,low
 cae0b72c-825a-4556-9669-597c6ecfab6c,trusted.villas,available,62.98,74.98,high,medium,7,namecheap,,,28/09/2026 08:06
 40a2b865-5cfb-41b2-8ffc-a2cb2b99f727,bouffant.villas,available,19.99,80.99,high,low,8,name.com,,,10/08/2026 21:32
 76b43b11-9c46-4ba9-8c29-04c5bb13f9f5,flyer.villas,available,19.99,80.99,high,low,5,name.com,,,11/08/2026 05:11
+4a586af8-5d51-4b74-8e62-151d7ff19a1c,meshes.villas,available,47.81,47.81,low,low,6,spaceship,,,01/10/2026 18:22
 a4a4b969-9b96-4384-8911-a872e4467162,mirthful.villas,available,19.99,80.99,high,low,8,name.com,,,12/08/2026 19:00
 f36daae4-f804-4976-af35-33c2d01d9f0e,cls.villas,available,46.2,46.2,high,low,3,cloudflare,,,30/09/2026 21:33
 06a17e78-83b9-4b8b-842c-2c81cf50fd83,dickie.villas,available,19.99,80.99,medium,low,6,name.com,,,14/08/2026 06:30
@@ -605,6 +634,7 @@ c07d04e4-2972-4765-ab7a-f8dcbce2fdb2,brookline.villas,available,59.99,59.99,high
 ff61a2b1-59b7-4c55-9ef1-d03533dcf84b,averages.villas,available,47.81,47.81,medium,low,8,spaceship,,,01/10/2026 00:38
 647363cd-9e14-49a2-be38-d7e4e0d36f36,knapsack.villas,available,59.99,59.99,high,low,8,namesilo,,,21/09/2026 14:39
 e823ca00-14ca-4f46-86e6-d7ee4dccc59d,oblige.villas,available,59.99,59.99,high,low,6,namesilo,,,03/09/2026 23:41
+cbfcc52c-7b29-45b0-b5b3-2af52bd50caa,revert.villas,available,62.98,74.98,high,low,6,namecheap,,,01/10/2026 22:12
 2d4c5987-7903-40ae-b9f4-99cc2ebc46b6,unattended.villas,available,59.99,59.99,medium,low,10,namesilo,,,12/09/2026 01:17
 e23be0a6-d681-4830-bc0d-3e2963715485,wifi.villas,available,59.99,59.99,high,low,5,namesilo,,,16/09/2026 14:19
 8da0acab-8955-44e4-af25-25d5de1f3082,media.villas,available,19.99,,high,medium,5,name.com,,,
@@ -639,6 +669,7 @@ b8b1b0a5-1ce8-4729-9a52-319e1a60d60d,acetyl.villas,available,59.99,59.99,medium,
 acf57fee-c3ff-441a-afa6-2c7e184a0616,scheduling.villas,available,46.2,46.2,high,low,10,cloudflare,,,29/09/2026 02:34
 1b7cf244-0b9c-4484-b797-5e361fc903a0,dulcet.villas,available,19.99,80.99,medium,low,6,name.com,,,14/08/2026 20:59
 b90c959d-fc06-479a-bf73-46a450629517,physicist.villas,available,47.81,47.81,high,low,9,spaceship,,,29/09/2026 19:58
+3f890a94-666b-42b2-a858-65d9d66ff2dd,wallachia.villas,available,59.99,59.99,medium,low,9,namesilo,,,01/10/2026 23:44
 c4b25182-b693-4036-9912-f829bac4d2e2,ecstasy.villas,available,46.2,46.2,high,low,7,cloudflare,,,29/09/2026 12:00
 c6695d1a-23f2-4d4e-b232-0b91c01c535e,etched.villas,available,19.99,80.99,high,low,6,name.com,,,17/08/2026 07:41
 5fd1adbf-34e5-4ac6-90f8-74fb42480bc3,basting.villas,available,59.99,59.99,medium,low,7,namesilo,,,22/09/2026 12:43
@@ -655,6 +686,7 @@ ceac7973-ab87-423b-a0a5-800919b11114,taoism.villas,available,59.99,59.99,medium,
 7ec09e55-1f82-445c-bd04-d468e3d2bca9,ventral.villas,available,19.99,80.99,high,low,7,name.com,,,
 c14ea124-acf4-4b93-b056-b637632eaee3,piles.villas,available,59.99,59.99,high,low,5,namesilo,,,14/09/2026 23:21
 8bd92c5f-0f6b-4f3a-bd5f-7f267feba0d8,laurent.villas,available,59.99,59.99,medium,low,7,namesilo,,,27/09/2026 09:55
+6783f66f-41ec-4dfe-ac04-21517ef92ca5,constrained.villas,available,59.99,59.99,medium,low,11,namesilo,,,01/10/2026 22:42
 ea6ab3cf-c6f4-4063-a214-41eeab29a852,grove.villas,premium,118.8,118.8,high,low,5,namesilo,,,28/09/2026 09:58
 d90f518b-550f-472b-8091-6da9e0a68c3f,deserts.villas,available,46.2,46.2,high,low,7,cloudflare,,,01/10/2026 01:30
 8ccd5738-5ac3-4132-8333-a5cc1a494ea6,osaka.villas,premium,260,260,high,low,5,namecheap,,,30/09/2026 10:41
@@ -697,6 +729,7 @@ d0a91bb4-20d2-4fff-95b9-af4ffc30b30b,enactment.villas,available,59.99,59.99,medi
 44296bcd-7980-4cfe-af77-bbafac7e70eb,lipstick.villas,available,59.99,59.99,high,low,8,namesilo,,,28/09/2026 02:36
 3a84ceb8-75eb-4b81-aa29-19612ca2f0ba,steroids.villas,available,62.98,74.98,medium,low,8,namecheap,,,19/09/2026 19:38
 27c7f8f6-4142-4627-8c87-ec02c104384b,surprising.villas,available,62.98,74.98,high,low,10,namecheap,,,28/09/2026 02:05
+5d148bd2-6dd8-4ec5-ac2f-ab0142659c5c,charleroi.villas,available,10.92,49.44,medium,low,9,dynadot,,,02/10/2026 04:19
 1227a0e1-29cd-44e7-9170-cb4ddd7a3ea0,pays.villas,available,59.99,59.99,medium,low,4,namesilo,,,25/09/2026 17:21
 03fc8cb4-8f0f-42d6-974c-482f39124621,cock.villas,available,59.99,59.99,high,low,4,namesilo,,,28/09/2026 02:08
 2dda341e-7f8c-41b8-af7c-70672814b153,venerable.villas,available,59.99,59.99,high,low,9,namesilo,,,27/09/2026 14:05
@@ -709,6 +742,8 @@ e1e6ded8-22af-419c-9c55-87c36c9a79d6,ceric.villas,available,19.99,80.99,medium,l
 9ac1cc39-adb9-4e61-b6b8-fb06ec08f40e,sauk.villas,available,59.99,59.99,high,low,4,namesilo,,,30/09/2026 10:59
 05bab43e-0b87-4b21-bf34-bbcdae34c651,cns.villas,available,47.81,47.81,high,low,3,spaceship,,,28/09/2026 09:21
 f379274d-0084-4fd6-94db-6a2edec82275,yogi.villas,available,59.99,59.99,high,low,4,namesilo,,,23/09/2026 10:04
+5d5743af-2fec-43ce-962c-4187d0d289e9,nhtsa.villas,available,59.99,59.99,medium,low,5,namesilo,,,01/10/2026 07:59
+4343858a-5b65-4b2e-b2da-da5749095ed1,conveyed.villas,available,59.99,59.99,medium,low,8,namesilo,,,02/10/2026 01:56
 03f7b65f-af9b-4945-bba8-bfc9bcb92a45,descendant.villas,available,19.99,80.99,high,low,10,name.com,,,14/08/2026 03:14
 2d241f40-11c0-4445-ba26-c98215137060,banking.villas,available,59.99,59.99,high,low,7,namesilo,,,29/09/2026 01:02
 3156b226-606a-4586-826f-05201497f0f9,chiang.villas,available,59.99,59.99,medium,low,6,namesilo,,,25/09/2026 16:34
@@ -719,7 +754,7 @@ f379274d-0084-4fd6-94db-6a2edec82275,yogi.villas,available,59.99,59.99,high,low,
 b3d5b82c-1cd8-4902-a0a7-630dab4961e2,century.villas,available,19.99,80.99,high,low,7,name.com,,,
 b439d5a8-b69d-4acf-8eed-b952811e70ad,annan.villas,available,59.99,59.99,medium,low,5,namesilo,,,30/09/2026 05:28
 bf45b768-dd59-4244-b2dc-51ae832cd481,protozoan.villas,available,59.99,59.99,medium,low,9,namesilo,,,09/09/2026 04:12
-5889011d-b921-4ada-84b4-87b5d6ef81fc,digital.villas,premium,440,440,high,medium,7,dynadot,,,28/09/2026 15:01
+5889011d-b921-4ada-84b4-87b5d6ef81fc,digital.villas,premium,520,520,high,medium,7,namecheap,,,01/10/2026 07:41
 62a6da18-bce2-4227-9aff-b629840fba19,intestinal.villas,available,59.99,59.99,medium,low,10,namesilo,,,04/09/2026 08:14
 2d516fca-7894-4fe6-960b-d84f05675c6b,motionless.villas,available,19.99,80.99,medium,low,10,name.com,,,25/08/2026 07:28
 28d16e03-b1c1-4887-81d3-beab1c5d3ffd,masterful.villas,available,62.98,74.98,high,low,9,namecheap,,,23/09/2026 21:35
@@ -730,7 +765,7 @@ b4e32d07-3645-4dd6-90b2-3241ca67e5ec,robb.villas,available,47.81,47.81,medium,lo
 c4fac2e4-f6c9-435e-a276-20e345c184c8,digs.villas,available,47.81,47.81,high,low,4,spaceship,,,30/09/2026 16:59
 01f96a61-7659-4860-b409-efaaffd48926,artifact.villas,available,62.98,74.98,high,low,8,namecheap,,,20/09/2026 10:07
 90c5142c-3a43-46a2-b6bb-eaf9f954f8ec,unprovable.villas,available,59.99,59.99,medium,low,10,namesilo,,,12/09/2026 17:29
-5f29d541-68af-4547-bb7a-064ee8cc4fa9,recreation.villas,available,59.99,59.99,high,low,10,namesilo,,,24/09/2026 23:18
+5f29d541-68af-4547-bb7a-064ee8cc4fa9,recreation.villas,available,59.99,59.99,medium,low,10,namesilo,,,01/10/2026 15:30
 b6a1c4c2-64d2-4183-acc7-9aaf0e36113d,acidosis.villas,available,62.98,74.98,medium,low,8,namecheap,,,17/09/2026 01:28
 7b54d5bb-9338-4214-adf5-235326ec4c72,peaches.villas,available,47.81,47.81,medium,low,7,spaceship,,,29/09/2026 11:22
 2085204a-dffc-4535-9bc7-eaace3eb0d45,blazers.villas,available,59.99,59.99,medium,low,7,namesilo,,,20/09/2026 11:38
@@ -762,13 +797,14 @@ af907397-05ef-415a-ac34-e2c768f7146a,salient.villas,available,59.99,59.99,high,l
 be667a3d-1d92-4013-970e-f171f33b404e,leafy.villas,available,19.99,80.99,high,low,5,name.com,,,22/08/2026 21:57
 36b89841-76ba-4a4c-ba59-d506a8c3ba0e,bachelor.villas,available,10.92,49.44,high,low,8,dynadot,,,29/09/2026 00:12
 b7de53c3-0a3c-4a56-9cda-174c6a7dbe70,hinault.villas,available,62.98,74.98,medium,low,7,namecheap,,,23/09/2026 09:48
-7106d0ec-5040-4538-844f-db995e00d4f1,playstation.villas,available,,,high,high,11,,,,
+e7b67ab3-bff2-4b39-94a5-6904716c8b78,handbag.villas,available,47.81,47.81,high,low,7,spaceship,,,01/10/2026 19:55
 570746c1-8fe4-463e-8ecb-36e1169e99eb,wilde.villas,available,59.99,59.99,high,low,5,namesilo,,,25/09/2026 09:39
 4b85c549-53ba-47d7-b235-54376e12390a,undue.villas,available,19.99,80.99,medium,low,5,name.com,,,17/08/2026 16:19
 5568ce90-f074-4fe9-90ae-f35597ef93b0,woolwich.villas,available,10.92,49.44,medium,low,8,dynadot,,,29/09/2026 15:50
 faf866a2-4600-4345-9c6a-a4e41f1f14a9,tropics.villas,available,10.81,47.89,high,low,7,porkbun,,,30/09/2026 11:12
 f44d1a0e-0091-4936-8ded-7e1b203cc692,rubidium.villas,available,59.99,59.99,medium,low,8,namesilo,,,20/09/2026 22:58
 2bdcea18-063e-4d2e-9ce3-cbdba1f18d64,barbeque.villas,available,59.99,59.99,high,low,8,namesilo,,,29/09/2026 01:07
+d4e8bbb8-df07-46d5-929b-3959ab950a53,kerosene.villas,available,10.81,47.89,high,low,8,porkbun,,,01/10/2026 18:59
 73666900-3489-432e-941d-74faffdd29b9,amplifier.villas,available,59.99,59.99,high,low,9,namesilo,,,18/09/2026 23:40
 9a58c122-6e1f-42ec-9163-013928577b2a,harding.villas,available,47.81,47.81,medium,low,7,spaceship,,,28/09/2026 19:24
 02f6f63a-0d04-48bb-a3f7-b7fc3295d114,metals.villas,available,10.92,49.44,high,low,6,dynadot,,,30/09/2026 06:19
@@ -789,6 +825,7 @@ c713923d-b443-4fe0-999f-c943de8fdb1f,kidnapper.villas,available,62.98,74.98,medi
 732638f2-43ce-47b6-a3cc-de36ba721b26,birthplace.villas,available,62.98,74.98,high,low,10,namecheap,,,23/09/2026 21:18
 071842c1-61c8-44f6-b779-de1b3ef566fd,doubting.villas,available,19.99,80.99,medium,low,8,name.com,,,14/08/2026 17:01
 b9895715-a2bc-490a-97fd-23be3fc76b36,jobless.villas,available,19.99,80.99,medium,low,7,name.com,,,22/08/2026 13:32
+e04baabe-1fdb-409c-b4d3-dcaba709873d,nationalism.villas,available,46.2,46.2,medium,low,11,cloudflare,,,01/10/2026 13:46
 6d2b671f-af03-43c1-9d09-6fce86ec1e8a,classics.villas,available,59.99,59.99,high,low,8,namesilo,,,28/09/2026 13:44
 bc5b3b0d-f784-47b6-8699-d14d81de2d33,admit.villas,available,59.99,59.99,high,low,5,namesilo,,,26/09/2026 00:34
 94f19b9f-9562-42c2-833f-a28e022e4cad,quoted.villas,available,59.99,59.99,medium,low,6,namesilo,,,29/09/2026 23:28
@@ -800,26 +837,29 @@ abd4020d-77e3-409f-b3bf-5eb80bbe6d93,hooper.villas,available,10.81,47.89,medium,
 a0c8dffb-b871-46c7-a25c-7a1a450a38c4,unshod.villas,available,19.99,80.99,medium,low,6,name.com,,,14/08/2026 09:48
 9b62d10e-1b82-46f1-b863-fe4356e6af7e,barrie.villas,available,59.99,59.99,medium,low,6,namesilo,,,22/09/2026 08:37
 2f3ef6c3-eedf-4593-8763-dc2a00473387,beat.villas,available,47.81,47.81,high,low,4,spaceship,,,29/09/2026 18:38
-55ad2d2f-5ab5-4a0d-9bd1-b056e5c0a988,declining.villas,available,19.99,,medium,low,9,name.com,,,
+55ad2d2f-5ab5-4a0d-9bd1-b056e5c0a988,declining.villas,available,10.81,47.89,medium,low,9,porkbun,,,01/10/2026 21:27
 c05b5ccc-8464-4031-b3d2-bf365f76fc82,agromania.villas,available,62.98,74.98,medium,low,9,namecheap,,,17/09/2026 19:38
-5fd42b84-2795-4a79-a168-a2c1d52e5cae,ann.villas,available,19.99,,high,low,3,name.com,,,
+5fd42b84-2795-4a79-a168-a2c1d52e5cae,ann.villas,available,46.2,46.2,high,low,3,cloudflare,,,01/10/2026 09:27
 d2f47517-623b-433b-b684-efcb8fdf0d6e,morphine.villas,available,47.81,47.81,medium,low,8,spaceship,,,28/09/2026 10:27
 9af7aeac-4dd5-4ee4-9c64-1668d774720c,indefinitely.villas,available,47.81,47.81,medium,low,12,spaceship,,,28/09/2026 22:50
 b5b29aca-afd1-4f32-ad58-b8edb30e3098,uninformed.villas,available,59.99,59.99,medium,low,10,namesilo,,,12/09/2026 13:22
 cad37e4d-1735-4027-afad-991d2403ad74,slavery.villas,available,59.99,59.99,high,low,7,namesilo,,,10/09/2026 10:30
 c8096473-94c1-4df6-a16c-1472fc1e7c4c,prestige.villas,premium,512,512,high,low,8,namesilo,,,29/09/2026 07:53
 310a45d4-fac4-4b74-839e-a8bb855f0748,jewelled.villas,available,19.99,80.99,high,low,8,name.com,,,18/08/2026 21:12
+bb42bc6a-b330-4851-91fc-269008e5b6b9,uncontrolled.villas,available,46.2,46.2,medium,low,12,cloudflare,,,01/10/2026 22:34
 b47f6fd1-9c65-4583-a90b-829c12a4b4df,pitt.villas,available,62.98,74.98,high,low,4,namecheap,,,25/09/2026 06:04
 527b148e-3591-416b-93ad-ca8b0c5f827e,consulted.villas,available,47.81,47.81,medium,low,9,spaceship,,,29/09/2026 16:59
 4ee74ede-3578-4e1d-b965-5aade543ff71,zithromax.villas,available,59.99,59.99,medium,low,9,namesilo,,,21/09/2026 11:16
 503b5e24-7931-4e79-9144-b1ff556128b3,simulated.villas,available,47.81,47.81,high,low,9,spaceship,,,30/09/2026 15:47
-d5c0504d-ba90-4202-b965-42e81f2b902e,health.villas,premium,512,512,high,medium,6,namesilo,,,30/09/2026 07:37
+d5c0504d-ba90-4202-b965-42e81f2b902e,health.villas,premium,440,440,high,medium,6,dynadot,,,02/10/2026 03:51
 41e2b4b5-6b5d-4b8d-88f7-17c4fa1e86f4,reasonably.villas,available,62.98,74.98,medium,low,10,namecheap,,,25/09/2026 11:58
 84ef400f-2607-4d82-8ce1-b2c903c4419a,blythe.villas,available,59.99,59.99,high,low,6,namesilo,,,29/09/2026 23:30
 e555c5ac-5577-40da-b3b7-b50724711caf,dumb.villas,available,19.99,80.99,high,low,4,name.com,,,14/08/2026 21:03
+fc9c6cbd-e983-4d36-a7a1-923230452dd9,stroma.villas,available,62.98,74.98,medium,low,6,namecheap,,,01/10/2026 21:54
 0b4cd243-aa12-44e8-8df4-d0c29598835f,anglophile.villas,available,59.99,59.99,medium,low,10,namesilo,,,19/09/2026 06:52
 b2b1167c-a60b-4080-88cb-9a3a395dbae0,cope.villas,available,62.98,74.98,high,low,4,namecheap,,,24/09/2026 18:08
 9f41e80b-009c-4bdd-a34f-40f7baab41ed,stinker.villas,available,19.99,80.99,medium,low,7,name.com,,,11/08/2026 09:15
+1ccc6f5a-f9fa-45a9-b09b-21443fe71932,coleoptera.villas,available,47.81,47.81,medium,low,10,spaceship,,,02/10/2026 04:24
 ab7053ca-bfff-4543-8b7a-5f856513f44d,stahl.villas,available,46.2,46.2,high,low,5,cloudflare,,,29/09/2026 11:00
 820833bb-6d51-47ae-9dfb-e1aee15b461b,amr.villas,available,59.99,59.99,high,low,3,namesilo,,,29/09/2026 22:13
 49fd7fa2-82fb-4a97-bf77-1e8750aee1ec,ishmael.villas,available,62.98,74.98,high,low,7,namecheap,,,04/09/2026 19:10
@@ -846,7 +886,7 @@ db2738b8-a249-4fcd-af65-fc501b32dffc,familiar.villas,available,59.99,59.99,high,
 721b0357-2e55-41ee-9be6-82ac88dbfe67,negotiation.villas,available,47.81,47.81,high,low,11,spaceship,,,30/09/2026 19:24
 3659c888-9755-45ea-99ff-4c4d57e83e6e,incapable.villas,available,19.99,80.99,medium,low,9,name.com,,,22/08/2026 00:49
 edae3df1-b292-4735-88f0-3b48c3fc4e1a,abscissa.villas,available,59.99,59.99,medium,low,8,namesilo,,,16/09/2026 17:32
-3bf3d78d-a45a-4977-85dc-4a2ed5c40d0d,californian.villas,available,19.99,,high,low,11,name.com,,,
+3bf3d78d-a45a-4977-85dc-4a2ed5c40d0d,californian.villas,available,59.99,59.99,high,low,11,namesilo,,,01/10/2026 05:38
 af6bc93d-d553-43c2-8a1c-4858b982ada0,restraint.villas,available,10.81,47.89,medium,low,9,porkbun,,,28/09/2026 18:42
 ede48ac7-8b72-4757-867f-6d39aa2e9818,kenny.villas,available,59.99,59.99,medium,low,5,namesilo,,,26/09/2026 03:38
 4cb09c3d-22aa-4815-bde1-32d590ea464f,monolithic.villas,available,19.99,80.99,high,low,10,name.com,,,24/08/2026 16:43
@@ -858,6 +898,7 @@ efddb814-a8bd-4932-8296-30ac3e41234b,rested.villas,available,59.99,59.99,high,lo
 8f18de45-6681-4a26-a80a-3921d92f00ab,clarity.villas,available,59.99,59.99,high,medium,7,namesilo,,,29/09/2026 09:51
 a3ccc5d1-ce0f-4044-b040-c0fd7dcf5cad,bodiless.villas,available,19.99,80.99,medium,low,8,name.com,,,10/08/2026 16:48
 beadf763-dbc2-44ad-a413-bf32dae18bf1,ismail.villas,available,47.81,47.81,medium,low,6,spaceship,,,28/09/2026 11:55
+9972180e-a594-41e0-8c0f-5a9569608843,distilled.villas,available,47.81,47.81,medium,low,9,spaceship,,,01/10/2026 12:59
 39ff4e10-fb49-4b40-a804-5a43a42f0387,captain.villas,available,47.81,47.81,high,low,7,spaceship,,,29/09/2026 07:28
 a1fc49e4-665a-45ab-bb36-f970c111bce7,scraggy.villas,available,19.99,80.99,medium,low,7,name.com,,,22/08/2026 12:02
 86a04e11-2da7-44cf-815e-4cdfc4f6ae75,refractory.villas,available,19.99,80.99,medium,low,10,name.com,,,18/08/2026 13:55
@@ -893,13 +934,16 @@ f833babf-fd40-4ea8-ac29-0439e7773fd3,irksome.villas,available,19.99,80.99,medium
 79e2a949-60f1-444f-b25c-f115260f547d,parky.villas,available,59.99,59.99,medium,low,5,namesilo,,,08/09/2026 01:38
 554210a4-05ad-41a5-ab5c-5a0d10abda0f,frostbite.villas,available,62.98,74.98,high,low,9,namecheap,,,24/09/2026 19:56
 f142c0f8-37ba-46b0-88d3-05d3fced8a71,artwork.villas,available,10.92,49.44,high,low,7,dynadot,,,28/09/2026 22:22
-31136a04-7a0d-4241-aefe-40e16448e069,oldest.villas,available,19.99,,high,low,6,name.com,,,
+31136a04-7a0d-4241-aefe-40e16448e069,oldest.villas,available,47.81,47.81,high,low,6,spaceship,,,01/10/2026 19:28
 8750792b-052b-49c5-aad0-5409f384b740,abacus.villas,available,59.99,59.99,high,low,6,namesilo,,,16/09/2026 13:45
+b8999ab0-2ce5-4718-a42e-bc5dda9deb12,killian.villas,available,47.81,47.81,medium,low,7,spaceship,,,02/10/2026 00:13
 36ef9ce3-5670-4c6c-baef-fe9164af1e05,hospitals.villas,available,59.99,59.99,medium,low,9,namesilo,,,20/09/2026 04:37
 2e348a03-9373-47b4-ac4e-fb506e26bb00,trouper.villas,available,59.99,59.99,medium,low,7,namesilo,,,22/09/2026 06:54
+dfe29a4b-7fc1-42a0-a84c-7be497a914a6,notaries.villas,available,47.81,47.81,medium,low,8,spaceship,,,02/10/2026 03:21
 43be31af-393d-4c21-90e8-e6eb1764c150,tolstoy.villas,available,46.2,46.2,medium,low,7,cloudflare,,,01/10/2026 01:34
 bb87ae6a-386d-46dd-8dea-0b4c88d68c58,psd.villas,available,47.81,47.81,high,low,3,spaceship,,,29/09/2026 21:36
 2af47894-9e9c-4d95-8043-46aeee65f8ae,doncaster.villas,available,59.99,59.99,high,low,9,namesilo,,,29/09/2026 23:47
+5fb50c3d-2251-48e5-b919-be8dbbfcb27c,curr.villas,available,59.99,59.99,medium,low,4,namesilo,,,01/10/2026 22:24
 0faa827a-4ff2-4927-8b87-ed5cd3b7a48d,berry.villas,available,62.98,74.98,high,low,5,namecheap,,,23/09/2026 10:10
 dad1800e-af8c-4b29-96ad-016c953db5d3,ruby.villas,available,59.99,59.99,high,medium,4,namesilo,,,22/09/2026 22:32
 d9a478af-4516-4bd3-8f52-a9994abdb0bd,expanded.villas,available,19.99,80.99,high,low,8,name.com,,,17/08/2026 17:57
@@ -923,13 +967,16 @@ ed24e7cf-572b-4f50-a88b-8e0e066f2917,treasure.villas,available,62.98,74.98,high,
 9275ef68-5216-4168-9fcb-6d500f986295,jack.villas,available,47.81,47.81,high,medium,4,spaceship,,,29/09/2026 14:52
 99431d8b-66cb-4a44-8966-13856863e5a3,disrespectful.villas,available,47.81,47.81,medium,low,13,spaceship,,,30/09/2026 19:29
 ba8057f9-1970-4d2c-b90c-9eeca5d6ff48,invention.villas,available,46.2,46.2,high,low,9,cloudflare,,,28/09/2026 02:09
+16e38ac2-5dda-4df8-a50c-a7aade775483,nizam.villas,available,59.99,59.99,high,low,5,namesilo,,,01/10/2026 06:54
 223bc037-b451-4e9e-b5a6-c194faa6201f,enables.villas,available,47.81,47.81,medium,low,7,spaceship,,,01/10/2026 00:35
 97c6c726-61ac-4f7d-b23f-5fa553810a9a,encrusted.villas,available,19.99,80.99,medium,low,9,name.com,,,13/08/2026 09:24
 e610ce96-0685-4c02-8824-71eeef94e20e,describes.villas,available,47.81,47.81,medium,low,9,spaceship,,,29/09/2026 17:07
+557d4d7b-13a7-4598-994c-fdb2a6465704,feminists.villas,available,46.2,46.2,medium,low,9,cloudflare,,,02/10/2026 03:19
 40606a8e-17a7-4ae0-9c2d-fcef87dd408b,mangonel.villas,available,59.99,59.99,medium,low,8,namesilo,,,20/09/2026 00:37
 1c1507d0-fcbe-4d50-b4b9-b779222f580a,logo.villas,available,47.81,47.81,high,low,4,spaceship,,,30/09/2026 21:05
 6e7e9156-01af-4b87-89e3-a54e69e1a6de,hottish.villas,available,19.99,80.99,medium,low,7,name.com,,,21/08/2026 14:20
 9fbacc41-a3cf-41d3-aa84-26e53578ca35,benz.villas,available,47.81,47.81,high,low,4,spaceship,,,29/09/2026 14:58
+c49cc063-c01c-4d67-af13-cec60ca628d8,visualization.villas,available,10.81,47.89,high,low,13,porkbun,,,02/10/2026 01:37
 40ba198a-af71-4691-a82e-d7a8ab9acd3a,slimed.villas,available,59.99,59.99,medium,low,6,namesilo,,,10/09/2026 10:57
 53013cc8-5e85-4229-89cc-acc7048f1298,day.villas,premium,118.8,118.8,high,low,3,namesilo,,,28/09/2026 16:52
 8c51f660-7c85-4518-bc83-632647a4bf9d,encoded.villas,available,47.81,47.81,medium,low,7,spaceship,,,30/09/2026 14:32
@@ -940,62 +987,15 @@ aba832bb-7c91-4b3f-b912-8a00a316dc60,adduct.villas,available,59.99,59.99,medium,
 dd680396-45cf-4e1c-bd44-d2eba0abd2e8,wickedly.villas,available,59.99,59.99,medium,low,8,namesilo,,,14/09/2026 16:40
 059bcf7a-b96a-4e0e-b433-5d463f2ba664,balloon.villas,available,59.99,59.99,high,low,7,namesilo,,,21/09/2026 23:08
 32f0ca49-0018-4523-ada3-a7d01d28e363,carthusian.villas,available,19.99,80.99,high,low,10,name.com,,,11/08/2026 19:53
+5d4ae331-0d4f-4aa6-b6ca-6dbb5c745d56,shattuck.villas,available,47.81,47.81,high,low,8,spaceship,,,01/10/2026 23:38
 aa730730-1fcd-4517-8891-e4a5f66166f0,neurogenic.villas,available,59.99,59.99,medium,low,10,namesilo,,,03/09/2026 16:12
 6f5ff727-f9ea-474a-8bd1-971f5536eaed,mortality.villas,available,59.99,59.99,medium,low,9,namesilo,,,29/09/2026 06:35
 088207e5-76e0-4ad8-8fb2-129415e3f775,orca.villas,available,47.81,47.81,high,medium,4,spaceship,,,29/09/2026 21:14
 01b5f0d5-5e68-4757-ab6f-1b13ce8d6327,whipple.villas,available,46.2,46.2,medium,low,7,cloudflare,,,28/09/2026 16:10
 d9aec71e-f808-4e01-bbc1-d4b91ec73e62,acer.villas,available,62.98,74.98,high,low,4,namecheap,,,16/09/2026 23:32
 580ff103-0ac1-4315-9bab-08f3844b3479,mya.villas,available,10.92,49.44,high,low,3,dynadot,,,30/09/2026 09:54
+5133ba3c-13ff-469b-878c-1110ae1d3781,alf.villas,available,10.92,49.44,high,low,3,dynadot,,,01/10/2026 22:35
 5f27d775-204f-42ca-ae5b-52672f72fd30,seldom.villas,available,19.99,80.99,high,low,6,name.com,,,15/09/2026 22:34
 260be978-e829-466a-bcc0-acfff8d6882d,planetarium.villas,available,19.99,,high,low,11,name.com,,,
 db4ba988-1a0d-4b41-9f34-e62b071c805b,entry.villas,available,59.99,59.99,high,low,5,namesilo,,,08/09/2026 09:43
 e165ab78-10ec-46fc-802b-6f88755461da,attach.villas,available,62.98,74.98,high,low,6,namecheap,,,23/09/2026 19:57
-73ce6120-b811-4413-87d9-25a51154cbb3,polynesian.villas,available,19.99,80.99,high,low,10,name.com,,,24/08/2026 13:48
-b1f5d77e-7442-4e09-bf5e-d4909669d594,purchasing.villas,available,59.99,59.99,high,low,10,namesilo,,,24/09/2026 11:23
-8ffbeb7d-c0df-4869-80d1-dc3c8e5f4176,sparing.villas,available,19.99,80.99,high,low,7,name.com,,,18/08/2026 16:58
-64343aa3-5ea6-4c27-ba89-1a200128f8e6,devour.villas,available,62.98,74.98,high,low,6,namecheap,,,30/09/2026 17:52
-21565a0f-86b0-468e-af22-350535a4fb84,prodromic.villas,available,59.99,59.99,medium,low,9,namesilo,,,09/09/2026 02:46
-4508dcb1-fdcc-4421-b95b-33afdae6c0c7,barefooted.villas,available,19.99,80.99,medium,low,10,name.com,,,08/08/2026 18:59
-ae121ea8-e008-4595-a239-e1c97902e810,gains.villas,available,62.98,74.98,medium,low,5,namecheap,,,18/09/2026 18:50
-60711123-27ec-40b5-a219-e6a13f3b508f,enemy.villas,available,59.99,59.99,high,low,5,namesilo,,,01/10/2026 03:12
-778cb280-8b05-45c7-b18e-7fa89e7c6004,dutch.villas,premium,118.8,118.8,high,low,5,namesilo,,,24/09/2026 12:34
-cc6dec5a-2449-4319-9037-4649f8ceb37f,wastes.villas,available,59.99,59.99,medium,low,6,namesilo,,,17/09/2026 07:45
-22305715-4297-4421-ab8b-0cc12ef7409e,anatropous.villas,available,19.99,80.99,medium,low,10,name.com,,,
-7695f5d6-34b7-46de-ac22-4228f6b55d73,lists.villas,available,59.99,59.99,high,low,5,namesilo,,,17/09/2026 08:32
-f6c84e59-8be7-42af-afb8-1725c80c8fbd,impeding.villas,available,19.99,80.99,medium,low,8,name.com,,,12/08/2026 11:44
-ae7078eb-6b3b-4d02-828a-a9531a17f545,zachary.villas,available,59.99,59.99,high,low,7,namesilo,,,28/09/2026 11:58
-7d633cf3-99e7-424c-8b93-4e56450b3c08,highest.villas,available,59.99,59.99,medium,low,7,namesilo,,,25/09/2026 16:49
-f926508f-c190-4c9e-943d-2185c0de7c7b,lionel.villas,available,47.81,47.81,medium,low,6,spaceship,,,28/09/2026 16:08
-43a28c4e-6b81-49ee-991f-c0b4e806c36c,feature.villas,available,47.81,47.81,high,low,7,spaceship,,,30/09/2026 13:50
-45249047-2b35-4c2e-974f-694ae80a1595,bargainer.villas,available,59.99,59.99,medium,low,9,namesilo,,,22/09/2026 05:32
-05d5eec0-5582-4f22-a63d-633dd880336d,babbling.villas,available,59.99,59.99,high,low,8,namesilo,,,21/09/2026 12:23
-21f8e4ad-72bf-41a4-9ee9-38607cf812f8,talked.villas,available,59.99,59.99,medium,low,6,namesilo,,,18/09/2026 13:42
-ddb9af77-2ef8-4b2b-9053-48bdbf01b826,generates.villas,available,59.99,59.99,medium,low,9,namesilo,,,08/09/2026 05:16
-be19084b-3e47-4338-9fce-969d71515867,purchased.villas,available,10.92,49.44,medium,low,9,dynadot,,,28/09/2026 17:30
-740bb291-490d-4cdf-94e5-016fbd8700de,blatant.villas,available,19.99,80.99,medium,low,7,name.com,,,10/08/2026 13:31
-020263b9-f50f-400f-929a-616b65640cdd,coconut.villas,premium,118.8,118.8,high,low,7,namesilo,,,29/09/2026 10:13
-5048105e-d644-4e2c-acca-d247c0932992,despise.villas,available,62.98,74.98,high,low,7,namecheap,,,29/09/2026 15:39
-e7f49293-7dd5-42b7-a69a-08f639fa9cb5,associated.villas,available,59.99,59.99,medium,low,10,namesilo,,,28/09/2026 08:17
-1bc96872-839c-4eae-a465-342fb5680f7b,argonauta.villas,available,59.99,59.99,medium,low,9,namesilo,,,20/09/2026 04:32
-c6a7baf8-56f8-48df-816a-8ea0dd79e125,take.villas,available,47.81,47.81,high,low,4,spaceship,,,27/09/2026 19:44
-7dfa2216-13ad-43ae-8465-15bfc88cf158,texas.villas,premium,108.9,108.9,high,medium,5,dynadot,,,30/09/2026 03:10
-b65559cb-1936-4810-88c4-5238adafef8b,alupent.villas,available,59.99,59.99,medium,low,7,namesilo,,,18/09/2026 15:17
-4c8b6f53-51a0-46e7-a471-4098160917d6,foes.villas,available,59.99,59.99,low,low,4,namesilo,,,18/09/2026 06:38
-792397f6-50b0-4b09-b33f-5287ea7d08b9,grouch.villas,available,19.99,80.99,medium,low,6,name.com,,,13/08/2026 04:56
-1601fc69-b106-4dd2-979c-c855338703f1,westhill.villas,available,19.99,,medium,low,9,name.com,,,
-3ed82e26-e24a-4c73-861a-d81249808a7a,recovering.villas,available,59.99,59.99,high,low,10,namesilo,,,23/09/2026 22:44
-66d9e078-454d-4cef-aeeb-872dcd3f46c0,herakles.villas,available,59.99,59.99,high,low,8,namesilo,,,18/09/2026 04:05
-b8d40895-bacb-4d86-9bec-73f12851e6b6,overside.villas,available,59.99,59.99,medium,low,8,namesilo,,,15/09/2026 18:29
-ef2feb20-84cd-42e7-a445-ae171c03002a,boxers.villas,available,10.92,49.44,high,low,6,dynadot,,,29/09/2026 03:50
-5f9c2b80-3ac7-481a-8bb4-167d5a6af43e,mangy.villas,available,19.99,80.99,medium,low,5,name.com,,,24/08/2026 14:50
-9db7f372-6217-4d2f-a629-82b836d8fa06,energy.villas,premium,242,242,high,medium,6,namesilo,,,28/09/2026 06:07
-cb80d58f-8a28-4267-9b72-50eb4e53ef2a,connections.villas,available,47.81,47.81,high,low,11,spaceship,,,27/09/2026 23:11
-e540d389-8872-4f37-806a-e93eb010d9fb,brawny.villas,available,19.99,80.99,high,low,6,name.com,,,11/08/2026 02:47
-571bceca-734c-45df-99fc-bc66ea84333e,grammar.villas,available,47.81,47.81,high,low,7,spaceship,,,29/09/2026 21:08
-06d3d105-3f3f-43eb-ba03-502f73cdf47a,uninviting.villas,available,59.99,59.99,medium,low,10,namesilo,,,12/09/2026 13:39
-c97d5a71-3de9-4b2b-bd3d-85c29d8c7195,tierce.villas,available,19.99,80.99,medium,low,6,name.com,,,
-0a244183-3290-4e29-9805-6eaecf7410a5,rhenium.villas,available,59.99,59.99,medium,low,7,namesilo,,,20/09/2026 23:48
-2c3c9437-c9a5-419b-830c-bcbd8cd2e80b,blissfully.villas,available,59.99,59.99,high,low,10,namesilo,,,14/09/2026 00:23
-b30751b9-018a-47bf-8763-e72dc794eee4,implication.villas,available,47.81,47.81,high,low,11,spaceship,,,29/09/2026 22:52
-5b93dac8-0095-4f96-acf5-c7ee41d6a1fd,attachment.villas,available,10.92,49.44,high,low,10,dynadot,,,28/09/2026 18:30
-9021430a-970c-4b5d-958b-8d8cba55edc4,subaltern.villas,available,19.99,80.99,medium,low,9,name.com,,,22/08/2026 14:29
